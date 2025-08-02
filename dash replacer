@@ -1,0 +1,5 @@
+print("i will add special character by replacing blank space")
+a = input("enter your paragrah :")
+b=input("enter ur character  ")
+c =a.replace(" ",b)
+print("here it is \n",c)
